@@ -1,0 +1,1 @@
+Este programa es un asistente de chat que utiliza modelos de lenguaje y embeddings para interactuar con documentos. Lee un archivo `vault.txt` para generar embeddings y buscar contexto relevante. Reescribe consultas para mejorar la precisión y mantiene un historial de conversación. Se ejecuta en un bucle continuo hasta que el usuario decide salir.
